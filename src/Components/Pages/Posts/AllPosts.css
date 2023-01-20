@@ -1,0 +1,16 @@
+.add-post {
+  position: -webkit-sticky;
+  position: sticky;
+  bottom: 0;
+  float: left;
+  margin: 15px;
+  background-color: #151716;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
